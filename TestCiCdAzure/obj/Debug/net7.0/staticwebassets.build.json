@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uOIca5Ck9nWCfRmokIl+3AuXFoU9jyyIUMz8GA/NZqE=",
+  "Source": "TestCiCdAzure",
+  "BasePath": "_content/TestCiCdAzure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
