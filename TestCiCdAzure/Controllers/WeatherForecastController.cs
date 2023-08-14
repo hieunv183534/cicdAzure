@@ -33,7 +33,7 @@ namespace TestCiCdAzure.Controllers
         [HttpGet("test")]
         public IActionResult Test([FromQuery] string test)
         {
-            return Ok($"Hello {test}");
+            return Ok($"Hello {test} OKOK");
         }
     }
 }
