@@ -29,5 +29,11 @@ namespace TestCiCdAzure.Controllers
             })
             .ToArray();
         }
+
+        [HttpGet("test")]
+        public IActionResult Test([FromQuery] string test)
+        {
+            return Ok($"Hello {test}");
+        }
     }
 }
